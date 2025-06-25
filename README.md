@@ -1,8 +1,8 @@
-# Projeto: Pipeline de Dados com Python – Estrutura Simples
+# Projeto: Pipeline de Dados com Python
 
 **Disciplina:** Linguagens de Programação  
 **Curso:** Engenharia de Dados – UNIFOR  
-**Professor:** Ms. Alex Lima  
+**Professor:** Alex Lima  
 **Aluno:** ANDERSON DE OLIVEIRA SILVA
 
 ---
